@@ -1,0 +1,71 @@
+
+html, body, div {
+  font-family : calibri;
+  font-size : 12pt;
+  color : #36648B ;
+  margin : 10px;
+  text-align : left;
+}
+
+.contact-table {
+  margin : 10px;
+  background : #EFEFEF;
+  color :  #7AC5CD;
+  text-align : center;
+  width : 100%;
+}
+
+.contact-name {
+  font-size : 40pt;
+  font-weight : bold;
+  padding : 20px;
+  background : #FFFFFF;
+  text-align : center;
+}
+
+.contact-label {
+  color: #2F2F2F;
+  padding-left : 10px;
+  padding-right : 10px;
+}
+
+.contact-footer, .contact-footer a {
+  text-align : center;
+  color : #36648B ;
+}
+
+.section-header {
+  font-size : 18pt;
+  font-weight : bold;
+  background : #EFEFEF;
+  border-bottom : solid 3px #7AC5CD;
+  color : #2F2F2F ;
+  text-align : center;
+  width : 100%;
+}
+
+.job-header {
+  font-weight : bold;
+  font-size : 15pt;
+  text-decoration : none;
+  border-bottom : solid 1px #7AC5CD;
+  color : #2F2F2F ;
+  width : 100%;
+}
+
+.job-header a {
+	border-bottom : none;
+    color : #2F2F2F ;
+    text-decoration : none;
+}
+
+.job-tenure {
+  width : 20%;
+  font-weight : normal;
+  text-align : right;
+  padding-right : 10px;
+}
+
+.job-detail {
+  margin-left : 10px;
+}
