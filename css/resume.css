@@ -1,4 +1,3 @@
-
 html, body, div {
   font-family : calibri;
   font-size : 12pt;
@@ -15,11 +14,11 @@ html, body, div {
   width : 100%;
 }
 
-.contact-name {
+.contact-name { 
+  background : #FFFFFF;
   font-size : 40pt;
   font-weight : bold;
   padding : 20px;
-  background : #FFFFFF;
   text-align : center;
 }
 
